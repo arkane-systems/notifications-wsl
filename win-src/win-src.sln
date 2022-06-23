@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arkane.NotificationsWsl.Interface", "Arkane.NotificationsWsl.Interface\Arkane.NotificationsWsl.Interface.csproj", "{9150680F-E0BE-4E57-B1A5-BE3EAC35C2C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arkane.Notifications.Test", "Arkane.Notifications.Test\Arkane.Notifications.Test.csproj", "{0FFAD2A5-830C-4AEC-A854-7893875D307D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9150680F-E0BE-4E57-B1A5-BE3EAC35C2C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9150680F-E0BE-4E57-B1A5-BE3EAC35C2C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9150680F-E0BE-4E57-B1A5-BE3EAC35C2C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9150680F-E0BE-4E57-B1A5-BE3EAC35C2C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFAD2A5-830C-4AEC-A854-7893875D307D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFAD2A5-830C-4AEC-A854-7893875D307D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFAD2A5-830C-4AEC-A854-7893875D307D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFAD2A5-830C-4AEC-A854-7893875D307D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E1A1F69-3866-4725-869F-2D12640FF77C}
+	EndGlobalSection
+EndGlobal
